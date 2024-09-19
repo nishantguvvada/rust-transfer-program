@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"transfer_sol","instructions":[{"name":"transferAmount","accounts":[{"name":"to","isMut":true,"isSigner":false},{"name":"from","isMut":true,"isSigner":true},{"name":"systemProgram","isMut":false,"isSigner":false}],"args":[{"name":"amount","type":"u64"}]}]}
